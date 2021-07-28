@@ -1,0 +1,76 @@
+.navColor{
+    background-color:#04221b;
+  
+}
+.search{
+    margin-left: 500px;
+    display: flex;
+    
+}
+.logo{
+    margin-left: 150px;
+    color:white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.butt{
+    color: white;
+    border-color: #d39e00;
+    background-color: #d39e00;
+    
+    
+}
+.butt2{
+    color: white;
+    border-color: #d39e00;
+    background-color: #d39e00;
+    margin-left: 5px;
+    width: 80px;
+}
+.box{
+    color: #d39e00;
+}
+.movies{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.card{
+    margin:0px 10px;
+    padding:10px
+}
+.star{
+    margin-left: 55px;
+}
+.star2{
+    margin-left: 20px;
+}
+#bt1{
+    border-radius: 50%;
+    border-color: #d39e00;
+    background-color: #d39e00;
+    color: white;
+    font-weight: bolder;
+    margin-top: 40px;
+   
+}
+.bigDiv input{
+   width:250px;
+}
+.bigDiv2 {
+    margin-bottom: 40px;
+ }
+.input{
+    width:150px;
+    height: 30px;
+}
+.modal2{
+    color: white;
+    border-color: #d39e00;
+    background-color: #d39e00;
+    margin-left: 5px;
+    width: 150px;
+    margin-bottom: 40px;
+    border-radius: 20%;
+  
+}
