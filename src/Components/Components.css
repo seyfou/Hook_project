@@ -3,8 +3,7 @@
   
 }
 .search{
-    margin-left: 500px;
-    display: flex;
+  margin-left: 300px;
     
 }
 .logo{
@@ -17,6 +16,7 @@
     color: white;
     border-color: #d39e00;
     background-color: #d39e00;
+    margin-left: 400px;
     
     
 }
@@ -43,7 +43,7 @@
     margin-left: 55px;
 }
 .star2{
-    margin-left: 20px;
+    margin-left: 150px;
 }
 #bt1{
     border-radius: 50%;

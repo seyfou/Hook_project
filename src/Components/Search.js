@@ -14,6 +14,7 @@ function Search({searchtext, searchrate}) {
   <Navbar.Collapse  className="search">
     <Form inline >
       <FormControl  type="text" placeholder="Search" onChange={(e)=>searchtext(e.target.value)}/>
+      
       <Button   className="butt">Search</Button>
       <div className="star2">
         <ReactStars  
