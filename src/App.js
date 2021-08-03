@@ -75,7 +75,7 @@ function App() {
     image:"https://img.moviesjoy.to/resize/188x288/13/29/1329eea7d8ae66b2ae0d6aa980a4ba1b/1329eea7d8ae66b2ae0d6aa980a4ba1b.jpg",
     description:" It’s the dawn of a new age of heroes, and Metropolis has just met its first. ",
     genre:"Animation, Science Fiction",
-    url:"https://moviesjoy.to/movie/seance-69916",
+    url:"https://moviesjoy.to/movie/superman-man-of-tomorrow-63269",
     rating:'5'
 
   },
